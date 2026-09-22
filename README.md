@@ -46,32 +46,10 @@
 - **Python** 🐍 — для практических заданий и алгоритмов
 - **Pascal** 🧱 — для классических задач по алгоритмизации
 
-## 🚀 Как использовать
-
-1. Клонируйте репозиторий:
-
-   ```bash
-   git clone https://github.com/saolla/osnovy-algoritmyzacii.git
-Перейдите в нужную папку:
-
-bash
-cd "лаб 1 пайтон"
-Запустите нужный файл:
-
-bash
-# Python
-python main.py
-
-# Pascal (Free Pascal)
-fpc main.pas && ./main
-Изучайте материалы, выполняйте задания и покоряйте новые орбиты 🚀
-
 👤 Автор
 saolla — GitHub
 
 <div align="center">
-🚀 🛰️ 🌌 🌠 ☄️ 🪐 🔭
-Сделано с любовью к алгоритмам и космосу 🚀
 
 saolla © 2026
 
