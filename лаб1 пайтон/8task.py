@@ -1,5 +1,0 @@
-nach=float(input('Введите начальный вклад: '))
-god=float(input('Введите годовую ставку (%): '))
-year=int(input('Введите количество лет: '))
-total=nach*((1+god/100)**year)
-print(f'Итоговая сумма: {total:.2f}')
